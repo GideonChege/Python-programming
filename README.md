@@ -1,2 +1,3 @@
 # Python-programming
- A repository to keep COP 3035 labs code.
+ A repository to keep my python programming codes
+
